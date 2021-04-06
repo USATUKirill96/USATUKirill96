@@ -4,7 +4,7 @@
 
 ### About me
 Hi! My name is Kirill! 👋
-I am a `python/elixir` developer currently working in [Smenateam](https://github.com/smenateam)
+I am a `Python/Elixir` developer currently working in [Smenateam](https://github.com/smenateam)
 
 My job tasks contain both development and ops stack: 
 - building web-applications based on Django and DRF 🐍
