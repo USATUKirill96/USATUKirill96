@@ -7,8 +7,16 @@ Hi! My name is Kirill! 👋
 I am a `Python/Elixir` developer currently working in [Smenateam](https://github.com/smenateam)
 
 My job tasks contain both development and ops stack: 
-- building web-applications based on Django and DRF 🐍
-- deploying using ansible playbooks and docker. 🇦
+
+* building web-applications based on `Django` and `DRF` 🐍
+* using `Redis` 🟥 for cache and transactions
+* operating relational and non-relational data storages
+     * `MariaDB`🌊
+     * `Postgres`🐘
+     * `Elasticsearch`🔎 (yeah it's a search engine probably)
+* deploying using ansible playbooks and docker. 🇦
+* linux shell, ssh, scp 🖥️
+* using ubuntu on my desktop 💻
 
 You can get more details on my [LinkedIn](https://www.linkedin.com/in/%D0%BA%D0%B8%D1%80%D0%B8%D0%BB%D0%BB-%D0%B8%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2-7b2664204/) page
 
