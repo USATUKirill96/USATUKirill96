@@ -9,11 +9,11 @@ I am a `Python/Elixir` developer currently working in [Smenateam](https://github
 My job tasks contain both development and ops stack: 
 
 * building web-applications based on `Django` and `DRF` 🐍
-* using `Redis` 🟥 for cache and transactions
 * operating relational and non-relational data storages
      * `MariaDB`🌊
      * `Postgres`🐘
      * `Elasticsearch`🔎 (yeah it's a search engine probably)
+* using `Redis` 🟥 for cache and transactions
 * API protocols: `REST`, `GraphQL`
 * deploying using ansible playbooks and docker. 🇦
 * linux shell, ssh, scp 🖥️
