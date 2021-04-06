@@ -14,6 +14,7 @@ My job tasks contain both development and ops stack:
      * `MariaDB`🌊
      * `Postgres`🐘
      * `Elasticsearch`🔎 (yeah it's a search engine probably)
+* API protocols: `REST`, `GraphQL`
 * deploying using ansible playbooks and docker. 🇦
 * linux shell, ssh, scp 🖥️
 * using ubuntu on my desktop 💻
