@@ -33,7 +33,7 @@ My educating project where I integrated rabbitMQ into django project splitting i
 My first steps of studying Elixir
 
 ##### [Atol mock server](https://github.com/USATUKirill96/atol_mock_server)
-Mock-server built on Elixir. Allows developers work on web-applications without necessity of buying actual Atol device
+Mock-server built on Elixir. Allows developers work on web-applications without necessity of buying actual Atol device. Currently used by Smenateam developers
 
 ##### [Kitchen supply](https://github.com/USATUKirill96/kitchen_supply)
 (frozen)
