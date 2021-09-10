@@ -14,7 +14,7 @@ My common tasks contain both development and ops stack:
      * `MariaDB`🌊
      * `Postgres`🐘
      * `Elasticsearch`🔎
-* using `Redis` 🟥 for cache, transactions and massaging
+     * `Redis` 🟥
 * API protocols: `REST`, `GraphQL`
 * deploying using `ansible playbooks` and `docker`. 🇦
 * linux shell, ssh, scp 🖥️
