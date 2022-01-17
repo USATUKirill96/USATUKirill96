@@ -5,12 +5,12 @@
 ### About me
 Hi! My name is Kirill! 👋
 I am a *backend developer / Team lead* currently working in [Smenateam](https://github.com/smenateam)
-My programming stack is made of `Python`, and a bit of `Typescript` languages. I also master `Golang` for fun and future profits
+My programming stack contains `Python`, and a bit of `Typescript` languages. I also master `Golang` for fun and future profits
 
 The common tasks I deal with contain both development and operations stack: 
 
-* building web-applications using `Django REST`, `Django Graphene` (GraphQL) or `Flask` frameworks
-* operating relational and non-relational data storages
+* Building web-applications using `Django REST`, `Django Graphene` (GraphQL) or `Flask` frameworks
+* Operating relational and non-relational data storages
      * `MariaDB`🌊
      * `Postgres`🐘
      * `Elasticsearch`🔎
