@@ -6,12 +6,12 @@
 Hi! My name is Kirill! 👋
 I am a *backend developer / Team lead* currently working in [Smenateam](https://github.com/smenateam)
 
-I specialize in researching new technologies and aproaches, which I implement it in new projects:
+I specialize in researching new technologies and aproaches, which I implement in new projects:
 - Implemented GraphQL API using Django Graphene, which was as an MVP of this technology, bringing the best practices for future development
 - Developed the autotest MVP application using Playwright library, which was used as the base for autotest development
-- Development automated pipeline for running autotests using Docker, CircleCi and a bit of python scripts, by which we have automaticly running autotests on remote machine
+- Developed automated pipeline for running autotests using Docker, CircleCi and a bit of python scripts, by which we have automaticly running autotests on a remote machine
 
-My programming stack contains `Python` and a bit of `Typescript` languages. I also master `Golang` for fun and future profits
+My programming stack contains `Python` and `Typescript` languages. I also master `Golang` for fun and future profit
 
 The common tasks I deal with contain both development and operations stack: 
 * Building web-applications using `Django REST`, `Django Graphene` (GraphQL) or `Flask` frameworks
