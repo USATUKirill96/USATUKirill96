@@ -43,3 +43,5 @@ You can get more details or contact me on [LinkedIn](https://www.linkedin.com/in
 
 ##### [Django RabbitMQ](https://github.com/USATUKirill96/rabbitMQ)
 🐍 An educating project where I integrated `rabbitMQ` into `django` project splitting it into microservices
+
+![](https://komarev.com/ghpvc/?username=USATUKirill96)
