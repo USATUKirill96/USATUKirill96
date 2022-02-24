@@ -28,6 +28,8 @@ You can get more details or contact me on [LinkedIn](https://www.linkedin.com/in
 
 
 ### My repositories:
+##### [Golang algorithms](https://github.com/USATUKirill96/GolangAlgorithms)
+🇬 My solved algorithms implementations using Go language
 
 ##### [Ansible playbooks for shadowsocks+v2ray proxy deployment](https://github.com/USATUKirill96/shadowsocks-vray-playbooks)
 🇦 An Ansible playbooks script made for automated deployment of shadowsocks+v2ray proxy server. Includes large devops stack of `ansible`, `docker` and `web`
@@ -37,6 +39,8 @@ You can get more details or contact me on [LinkedIn](https://www.linkedin.com/in
 
 ##### [Atol mock server](https://github.com/USATUKirill96/atol_mock_server)
 ⚗️ A Mock-server built on `Elixir`. Allows developers work on web-applications without necessity of buying actual Atol device. Currently used by Smenateam developers
+##### [SmenaTeamDevUtils](https://github.com/USATUKirill96/SmenaTeamDevUtils)
+Collection of the most useful development utils based on a survey within Smena Team
 
 ##### [Cat food shop microservice](https://github.com/USATUKirill96/cat_food_orders)
 🐍 A demo-project of microservice. Includes stack of `Flask` (base framework), `SQLAlchemy` (ORM), `Ariadne` (GraphQL library), `Flask-Admin` (admin panel)
