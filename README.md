@@ -9,7 +9,7 @@ I am a *backend developer / Team lead* currently working in [Smenateam](https://
 I specialize in researching new technologies and aproaches, which I implement in new projects:
 - Implemented GraphQL API using Django Graphene, which was as an MVP of this technology, bringing the best practices for future development
 - Developed the autotest MVP application using Playwright library, which was used as the base for autotest development
-- Developed automated pipeline for running autotests using Docker, CircleCi and a bit of python scripts, by which we have automaticly running autotests on a remote machine
+- Developed automated pipeline for running autotests using Docker, CircleCi and a bit of python scripts, by which we have automatically running autotests on a remote machine
 
 My programming stack contains `Python` and `Typescript` languages. I also master `Golang` for fun and future profit
 
