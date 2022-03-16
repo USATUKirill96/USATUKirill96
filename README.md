@@ -26,6 +26,7 @@ The common tasks I deal with contain both development and operations stack:
 
 You can get more details or contact me on [LinkedIn](https://www.linkedin.com/in/%D0%BA%D0%B8%D1%80%D0%B8%D0%BB%D0%BB-%D0%B8%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2-7b2664204/) page
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=USATUKirill96&show_icons=true&theme=dracula)
 
 ### My repositories:
 ##### [Golang algorithms](https://github.com/USATUKirill96/GolangAlgorithms)
@@ -47,5 +48,6 @@ Collection of the most useful development utils based on a survey within Smena T
 
 ##### [Django RabbitMQ](https://github.com/USATUKirill96/rabbitMQ)
 🐍 An educating project where I integrated `rabbitMQ` into `django` project splitting it into microservices
+
 
 ![](https://komarev.com/ghpvc/?username=USATUKirill96)
