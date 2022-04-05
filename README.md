@@ -33,7 +33,7 @@ You can get more details or contact me on [LinkedIn](https://www.linkedin.com/in
 🇬 My solved algorithms implementations using Go language
 
 ##### [Architecture Patterns with ~~Python~~ Golang](https://github.com/USATUKirill96/ArchitecturePatterns)
-🇬 Implementation of [Architecture patterns with python book](https://www.amazon.com/Architecture-Patterns-Python-Domain-Driven-Microservices/dp/1492052205) project using Go programming language
+🇬 Implementation of [Architecture patterns with python book](https://www.amazon.com/Architecture-Patterns-Python-Domain-Driven-Microservices/dp/1492052205) project using Go programming language (in progress)
 
 ##### [Ansible playbooks for shadowsocks+v2ray proxy deployment](https://github.com/USATUKirill96/shadowsocks-vray-playbooks)
 🇦 An Ansible playbooks script made for automated deployment of shadowsocks+v2ray proxy server. Includes large devops stack of `ansible`, `docker` and `web`
