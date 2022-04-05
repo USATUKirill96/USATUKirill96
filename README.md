@@ -1,6 +1,6 @@
 ### Contacts: 
 - <usatukirill96@gmail.com>
-- [LinkedIn](https://www.linkedin.com/in/%D0%BA%D0%B8%D1%80%D0%B8%D0%BB%D0%BB-%D0%B8%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2-7b2664204/)
+- [LinkedIn](https://www.linkedin.com/in/usatukirill96/)
 
 ### About
 Hi! My name is Kirill! 👋
@@ -24,7 +24,7 @@ The common tasks I deal with contain both development and operations stack:
 * Building automated testing/deployment pipeline using `circleci`
 * linux shell, ssh, scp, tmux, vim, etc.. 🖥️
 
-You can get more details or contact me on [LinkedIn](https://www.linkedin.com/in/%D0%BA%D0%B8%D1%80%D0%B8%D0%BB%D0%BB-%D0%B8%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2-7b2664204/) page
+You can get more details or contact me on [LinkedIn](https://www.linkedin.com/in/usatukirill96/) page
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=USATUKirill96&show_icons=true&theme=dracula)
 
