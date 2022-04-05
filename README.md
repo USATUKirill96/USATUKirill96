@@ -3,8 +3,9 @@
 - [LinkedIn](https://www.linkedin.com/in/usatukirill96/)
 
 ### About
-Hi! My name is Kirill! 👋
-I am a *backend developer / Team lead* currently working in [Smenateam](https://github.com/smenateam)
+Hi! My name is Kirill! 👋 I'm an IT enthusiast involved in different spheres of programming industry
+- Full-time *Backend developer / Team lead* in [Smenateam](https://github.com/smenateam).
+- Part-time *code reviewer* at "Python developer" course of [Yandex Practicum](https://practicum.yandex.com/).
 
 I specialize in researching new technologies and aproaches, which I implement in new projects:
 - Implemented GraphQL API using Django Graphene, which was as an MVP of this technology, bringing the best practices for future development
@@ -26,11 +27,13 @@ The common tasks I deal with contain both development and operations stack:
 
 You can get more details or contact me on [LinkedIn](https://www.linkedin.com/in/usatukirill96/) page
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=USATUKirill96&show_icons=true&theme=dracula)
 
 ### My repositories:
 ##### [Golang algorithms](https://github.com/USATUKirill96/GolangAlgorithms)
 🇬 My solved algorithms implementations using Go language
+
+##### [Architecture Patterns with ~~Python~~ Golang](https://github.com/USATUKirill96/ArchitecturePatterns)
+🇬 Implementation of [Architecture patterns with python book](https://www.amazon.com/Architecture-Patterns-Python-Domain-Driven-Microservices/dp/1492052205) project using Go programming language
 
 ##### [Ansible playbooks for shadowsocks+v2ray proxy deployment](https://github.com/USATUKirill96/shadowsocks-vray-playbooks)
 🇦 An Ansible playbooks script made for automated deployment of shadowsocks+v2ray proxy server. Includes large devops stack of `ansible`, `docker` and `web`
@@ -49,5 +52,6 @@ Collection of the most useful development utils based on a survey within Smena T
 ##### [Django RabbitMQ](https://github.com/USATUKirill96/rabbitMQ)
 🐍 An educating project where I integrated `rabbitMQ` into `django` project splitting it into microservices
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=USATUKirill96&show_icons=true&theme=dracula)
 
 ![](https://komarev.com/ghpvc/?username=USATUKirill96)
