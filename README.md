@@ -1,8 +1,34 @@
-### Contacts: 
-- <usatukirill96@gmail.com>
-- [LinkedIn](https://www.linkedin.com/in/usatukirill96/)
+<div align="right">
+  <a href="mailto:usatukirill96@gmail.com">
+    <img src="https://raw.githubusercontent.com/USATUKirill96/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" height=30>
+  </a>
+  |
+  <a href="https://www.linkedin.com/in/usatukirill96/">
+    <img src="https://raw.githubusercontent.com/USATUKirill96/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" height=30>
+  </a>
+  |
+  <a href="https://t.me/coldsnapped">
+    <img src="https://raw.githubusercontent.com/USATUKirill96/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Telegram.svg" height=30>
+  </a>
+   |
+  <a href="https://www.instagram.com/kirkonglemonk/">
+    <img src="https://raw.githubusercontent.com/USATUKirill96/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Instagram.svg" height=30>
+  </a>
+</div>
 
-### About
+# About
+<div align="center">
+  <img src="https://raw.githubusercontent.com/USATUKirill96/Tech-Stack-Icons/661b1305f52d49de94f6640f8bbeec93dba9dc8a/Icons/python.svg" height=30> |
+  <img src="https://raw.githubusercontent.com/USATUKirill96/Tech-Stack-Icons/661b1305f52d49de94f6640f8bbeec93dba9dc8a/Icons/django.svg" height=30> |
+  <img src="https://github.com/USATUKirill96/Tech-Stack-Icons/blob/main/Icons/go.svg" height=30> |
+  <img src="https://github.com/USATUKirill96/Tech-Stack-Icons/blob/main/Icons/graphql.svg" height=30> |
+  <img src="https://github.com/USATUKirill96/Tech-Stack-Icons/blob/main/Icons/mysql.svg" height=30> |
+  <img src="https://github.com/USATUKirill96/Tech-Stack-Icons/blob/main/Icons/redis.svg" height=30> |
+  <img src="https://github.com/USATUKirill96/Tech-Stack-Icons/blob/main/Icons/ansible.svg" height=30> |
+  <img src="https://github.com/USATUKirill96/Tech-Stack-Icons/blob/main/Icons/docker-icon.svg" height=30> |
+</div>
+<br>
+
 Hi! My name is Kirill! 👋 I'm an IT enthusiast involved in different spheres of programming industry
 - Full-time *Backend developer / Team lead* in [Smenateam](https://github.com/smenateam).
 - Part-time *code reviewer* at "Python developer" course of [Yandex Practicum](https://practicum.yandex.com/).
@@ -25,10 +51,16 @@ The common tasks I deal with contain both development and operations stack:
 * Building automated testing/deployment pipeline using `circleci`
 * linux shell, ssh, scp, tmux, vim, etc.. 🖥️
 
-You can get more details or contact me on [LinkedIn](https://www.linkedin.com/in/usatukirill96/) page
+# Work experience
+
+| Job Position      | Company                                          | Field                                           | Work Period                |
+| ----------------  | ------------------------------------------------ | ----------------------------------------------- | -------------------------- |
+| Team Lead         | [SMENA](https://github.com/smenateam)            | Development, people management, recruitment     | 01.09.2021 — until now     |
+| Code reviewer     | [Yandex Practicum](https://practicum.yandex.com) | Python code reviewing                           | 01.04.2022 — until now     |
+| Backend developmer| [SMENA](https://github.com/smenateam)            | Django backend                                  | 01.05.2020 — 01.09.2021    |
 
 
-### My repositories:
+# My repositories:
 ##### [Golang algorithms](https://github.com/USATUKirill96/GolangAlgorithms)
 🇬 My solved algorithms implementations using Go language
 
