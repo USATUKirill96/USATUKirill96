@@ -38,7 +38,7 @@ Hi! My name is Kirill! 👋 I'm an IT enthusiast involved in different spheres o
 | -------------------------- | --------------------------- | --------- |
 | Python web backend         | Daily basis usage           | 3 years   |
 | Linux desktop and server   | Daily basis usage           | 3 years   |
-| Nginx                      | Uegularly deal with         | 2.5 years |
+| Nginx                      | Regularly deal with         | 2.5 years |
 | MySQL/PostgreSQL (ORM)     | Daily basis usage           | 2.5 years |
 | Redis                      | Used to face a couple tasks | 2 years   |
 | Elsaticsearch              | Regularly deal with         | 2 years   |
