@@ -55,7 +55,7 @@ Hi! My name is Kirill! 👋 I'm an IT enthusiast involved in different spheres o
 | ----------------  | ------------------------------------------------ | ----------------------------------------------- | -------------------------- |
 | Code reviewer     | [Yandex Practicum](https://practicum.yandex.com) | Python code reviewing at educational course     | 01.04.2022 — until now     |
 | Team Lead         | [SMENA](https://github.com/smenateam)            | Development, people management, recruitment     | 01.09.2021 — until now     |
-| Backend developmer| [SMENA](https://github.com/smenateam)            | Django backend                                  | 01.05.2020 — 01.09.2021    |
+| Backend developmer| [SMENA](https://github.com/smenateam)            | Django backend development                      | 01.05.2020 — 01.09.2021    |
 
 
 ## Achievements at these positions:
