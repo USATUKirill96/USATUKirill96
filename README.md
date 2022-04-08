@@ -44,7 +44,7 @@ Hi! My name is Kirill! 👋 I'm an IT enthusiast involved in different spheres o
 | Elsaticsearch              | Regularly deal with         | 2 years   |
 | Docker                     | Regularly deal with         | 2 years   |
 | Ansible                    | Regularly deal with         | 2 years   |
-| Graphql                    | Faily basis usage           | 1 year    |
+| Graphql                    | Daily basis usage           | 1 year    |
 | Golang web backend         | Pet projects                | 8 months  |
 | MySQL/PostgreSQL (raw SQL) | Pet projects                | 8 months  |
 
