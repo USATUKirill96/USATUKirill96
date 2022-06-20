@@ -30,7 +30,7 @@
 <br>
 
 Hi! My name is Kirill! 👋 I'm an IT enthusiast involved in different spheres of programming industry
-- Full-time *Backend developer / Team lead* in [Smenateam](https://github.com/smenateam).
+- Full-time *Software Engineer* / in [Grid Dynamics](https://www.griddynamics.com/).
 - Part-time *code reviewer* at "Python developer" course of [Yandex Practicum](https://practicum.yandex.com/).
 
 ## Stack
@@ -53,9 +53,10 @@ Hi! My name is Kirill! 👋 I'm an IT enthusiast involved in different spheres o
 
 | Job Position      | Company                                          | Field                                           | Work Period                |
 | ----------------  | ------------------------------------------------ | ----------------------------------------------- | -------------------------- |
-| Code reviewer     | [Yandex Practicum](https://practicum.yandex.com) | Python code reviewing at educational course     | 01.04.2022 — until now     |
-| Team Lead         | [SMENA](https://github.com/smenateam)            | Development, people management, recruitment     | 01.09.2021 — until now     |
-| Backend developmer| [SMENA](https://github.com/smenateam)            | Django backend development                      | 01.05.2020 — 01.09.2021    |
+| Software Engineer | [Grid Dynamics](https://www.griddynamics.com/)   | Backend development                             | 05.2022 — until now        |
+| Code reviewer     | [Yandex Practicum](https://practicum.yandex.com) | Python code reviewing at educational course     | 04.2022 — until now        |
+| Team Lead         | [SMENA](https://github.com/smenateam)            | Development, people management, recruitment     | 09.2021 — 05.2022          |
+| Backend developmer| [SMENA](https://github.com/smenateam)            | Django backend development                      | 05.2020 — 09.2021          |
 
 
 ## Achievements at these positions:
