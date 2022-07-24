@@ -35,7 +35,7 @@ Hi! My name is Kirill! 👋 I'm an IT enthusiast involved in different spheres o
 - Full-time *Software Engineer* / in [Grid Dynamics](https://www.griddynamics.com/).
 - Part-time *code reviewer* at "Python developer" course of [Yandex Practicum](https://practicum.yandex.com/).
 
-## Stack
+## Technical Stack
 |Technology                  | Familiarity                 | Experience|
 | -------------------------- | --------------------------- | --------- |
 | Python web backend         | Daily basis usage           | 3 years   |
