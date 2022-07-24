@@ -55,7 +55,7 @@ Hi! My name is Kirill! 👋 I'm an IT enthusiast involved in different spheres o
 
 | Job Position      | Company                                          | Field                                           | Work Period                |
 | ----------------  | ------------------------------------------------ | ----------------------------------------------- | -------------------------- |
-| Software Engineer | [Grid Dynamics](https://www.griddynamics.com/)   | Backend development                             | 05.2022 — until now        |
+| Software Engineer (Middle) | [Grid Dynamics](https://www.griddynamics.com/)   | Backend development                    | 05.2022 — until now        |
 | Code reviewer     | [Yandex Practicum](https://practicum.yandex.com) | Python code reviewing at educational course     | 04.2022 — until now        |
 | Team Lead         | [SMENA](https://github.com/smenateam)            | Development, people management, recruitment     | 09.2021 — 05.2022          |
 | Backend developmer| [SMENA](https://github.com/smenateam)            | Django backend development                      | 05.2020 — 09.2021          |
