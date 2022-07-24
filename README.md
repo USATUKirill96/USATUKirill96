@@ -16,7 +16,6 @@
   </a>
 </div>
 
-# About
 <div align="center">
   <img src="https://raw.githubusercontent.com/USATUKirill96/Tech-Stack-Icons/661b1305f52d49de94f6640f8bbeec93dba9dc8a/Icons/python.svg" height=30> |
   <img src="https://raw.githubusercontent.com/USATUKirill96/Tech-Stack-Icons/661b1305f52d49de94f6640f8bbeec93dba9dc8a/Icons/django.svg" height=30> |
@@ -28,6 +27,9 @@
   <img src="https://github.com/USATUKirill96/Tech-Stack-Icons/blob/main/Icons/docker-icon.svg" height=30> |
 </div>
 <br>
+
+# About <a id="about"></a>
+
 
 Hi! My name is Kirill! 👋 I'm an IT enthusiast involved in different spheres of programming industry
 - Full-time *Software Engineer* / in [Grid Dynamics](https://www.griddynamics.com/).
@@ -47,9 +49,9 @@ Hi! My name is Kirill! 👋 I'm an IT enthusiast involved in different spheres o
 | Graphql                    | Daily basis usage           | 1 year    |
 | Golang web backend         | Pet projects                | 8 months  |
 | MySQL/PostgreSQL (raw SQL) | Pet projects                | 8 months  |
+<br>
 
-
-# Work experience
+# Work experience <a id="experience"></a>
 
 | Job Position      | Company                                          | Field                                           | Work Period                |
 | ----------------  | ------------------------------------------------ | ----------------------------------------------- | -------------------------- |
@@ -69,8 +71,17 @@ Hi! My name is Kirill! 👋 I'm an IT enthusiast involved in different spheres o
      - Recruitment
      - Agile sprint Planning
      - Performance reviews
+<br>
+     
+     
+# Courses and certificates <a id="courses"></a>
 
-# Repositories:
+| Date | Course | Platform | Certificate |
+| ---- | ------ | -------- | ----------- |
+| 07.2022 | Learn How To Code: Google's Go (golang) Programming Language | Udemy | [udemy-golang.pdf](udemy-golang.pdf) | 
+<br>
+
+# Repositories: <a id="repositories"></a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=USATUKirill96&show_icons=true&theme=dracula)
 
 
