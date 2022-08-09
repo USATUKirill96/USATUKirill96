@@ -88,14 +88,11 @@ Hi! My name is Kirill! 👋 I'm an IT enthusiast involved in different spheres o
 | Project | Description | Stack   |
 | ------- | ----------- | ------- |
 | [Ansible playbooks for shadowsocks+v2ray proxy deployment](https://github.com/USATUKirill96/shadowsocks-vray-playbooks) | Ansible playbooks script made for automated deployment of shadowsocks+v2ray proxy server | Ansible, Docker, Shadowsocks, V2ray |
-| [GridU golang project](https://github.com/USATUKirill96/GOgRPCmicroservices) | Sandbox project, where I implemented a system of two microservices | Golang, elasticsearch, gRPC, postgresql, docker |
+| [GridU golang project](https://github.com/USATUKirill96/GOgRPCmicroservices) | Sandbox project, where I created a system of two microservices | Golang, elasticsearch, gRPC, postgresql, docker |
 | [Golang algorithms](https://github.com/USATUKirill96/GolangAlgorithms)| Dealt with algoritmic issues using Go language | Golang |
 | [Slack-YT-threads bot](https://github.com/USATUKirill96/Slack-YT-threads) | The goal of this app is to attach slack conversations to YouTrack issues. urrently used by Smenateam | Elixir, Docker, Ansible |
 | [Atol mock server](https://github.com/USATUKirill96/atol_mock_server) | A Mock-server. Allows developers work on web-applications without necessity of buying actual Atol device. Currently used by Smenateam developers | Elixir, Docker |
 | [SmenaTeamDevUtils](https://github.com/USATUKirill96/SmenaTeamDevUtils) | Collection of the most useful development utils based on a survey within Smena Team | Markdown |
-| [Cat food shop microservice](https://github.com/USATUKirill96/cat_food_orders) | A demo-project of Flask microservice. | Flask, SQLAlchemy, Ariadne, Flask-Admin |
-| [Django RabbitMQ](https://github.com/USATUKirill96/rabbitMQ) | An educating project | RabbitMQ, Django |
-
 
 
 ![](https://komarev.com/ghpvc/?username=USATUKirill96)
