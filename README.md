@@ -36,22 +36,25 @@ Hi! My name is Kirill! 👋 I'm an IT enthusiast involved in different spheres o
 - Part-time *code reviewer* at "Python developer" course of [Yandex Practicum](https://practicum.yandex.com/).
 
 ## Technical Stack
-|Technology                  | Familiarity                 | Experience|
-| -------------------------- | --------------------------- | --------- |
-| Python web backend         | Daily basis usage           | 3 years   |
-| Linux desktop and server   | Daily basis usage           | 3 years   |
-| Nginx                      | Regularly deal with         | 2.5 years |
-| MySQL/PostgreSQL (ORM)     | Daily basis usage           | 2.5 years |
-| Redis                      | Used to face a couple tasks | 2 years   |
-| Elsaticsearch              | Regularly deal with         | 2 years   |
-| Docker                     | Regularly deal with         | 2 years   |
-| Ansible                    | Regularly deal with         | 2 years   |
-| Graphql                    | Daily basis usage           | 2 years   |
-| Golang web backend         | Pet projects                | 1 year    |
-| MySQL/PostgreSQL (raw SQL) | Pet projects                | 1 year    |
+|Technology                  | Familiarity                 |
+| -------------------------- | --------------------------- | 
+| Python web backend         | Daily basis usage           |
+| Linux desktop and server   | Daily basis usage           |
+| Nginx                      | Regularly deal with         |
+| MySQL/PostgreSQL (ORM)     | Daily basis usage           | 
+| Redis                      | Used to face a couple tasks | 
+| Elsaticsearch              | Regularly deal with         | 
+| Docker                     | Regularly deal with         | 
+| Ansible                    | Regularly deal with         | 
+| Graphql                    | Daily basis usage           | 
+| Golang web backend         | Pet projects                | 
+| MySQL/PostgreSQL (raw SQL) | Pet projects                | 
 <br>
 
 # Work experience <a id="experience"></a>
+
+- 3.5 years of total programming experience
+- 2.5 years of commercial programming
 
 | Job Position      | Company                                          | Field                                           | Work Period                |
 | ----------------  | ------------------------------------------------ | ----------------------------------------------- | -------------------------- |
@@ -63,6 +66,8 @@ Hi! My name is Kirill! 👋 I'm an IT enthusiast involved in different spheres o
 
 ## Achievements at these positions:
 
+### Smena
+
 - Implemented GraphQL API using Django Graphene, which was as an MVP of this technology, bringing the best practices for future development
 - Developed the autotest MVP application using Playwright library, which was used as the base for autotest development
 - Developed automated pipeline for running autotests using Docker, CircleCi and a bit of python scripts, by which we have automatically running autotests on a remote machine
@@ -73,6 +78,13 @@ Hi! My name is Kirill! 👋 I'm an IT enthusiast involved in different spheres o
      - Performance reviews
 <br>
      
+### Yandex Practicum
+- Successfully mentored a group of students from absolute zero to junior "python developer" level
+
+### Grid Dynamics
+- Conducting 4 technical interviews with junior and middle candidates monthly
+- Integrated into spreaded international team
+- Taking a part in transfer of a small startup to a part of FAANG company
      
 # Courses and certificates <a id="courses"></a>
 
