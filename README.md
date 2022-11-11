@@ -82,7 +82,7 @@ Hi! My name is Kirill! 👋 I'm an IT enthusiast involved in different spheres o
 - Successfully mentored a group of students from absolute zero to junior "python developer" level
 
 ### Grid Dynamics
-- Conducting 4 technical interviews with junior and middle candidates monthly
+- Conducting technical interviews with junior and middle candidates
 - Integrated into spreaded international team
 - Taking a part in transfer of a small startup to a part of FAANG company
      
