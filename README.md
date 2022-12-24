@@ -40,6 +40,7 @@ Hi! My name is Kirill! 👋 I'm an IT enthusiast involved in different spheres o
 | -------------------------- | --------------------------- | 
 | Python web backend         | Daily basis usage           |
 | Linux desktop and server   | Daily basis usage           |
+| Google Cloud Platform      | Regularly deal with         |
 | Nginx                      | Regularly deal with         |
 | MySQL/PostgreSQL (ORM)     | Daily basis usage           | 
 | Redis                      | Used to face a couple tasks | 
@@ -82,11 +83,17 @@ Hi! My name is Kirill! 👋 I'm an IT enthusiast involved in different spheres o
 - Successfully mentored a group of students from absolute zero to junior "python developer" level
 
 ### Grid Dynamics
-- Conducting technical interviews with junior and middle candidates
+- Conducted technical interviews with junior and middle candidates
 - Integrated into spreaded international team
-- Taking a part in transfer of a small startup to a part of FAANG company
+- Took a part in transfer of a small startup to a part of FAANG company
+- Developed application environment in th Google Cloud Platform
      
 # Courses and certificates <a id="courses"></a>
+
+| Date | Expiration | Certification | Credential |
+| ---- | ------ | -------- | ----------- |
+| 12.2022 | 12.2025 | Google Cloud Certified Associate Cloud Engineer |[certificate](https://www.credential.net/c482e26a-f8e6-4f7b-baf6-c500cfada059?key=fe47a5cf62ec36c5ee26996e390f0dd3d341c9c16f62e27785ffa94f3f100d86) | 
+<br>
 
 | Date | Course | Platform | Certificate |
 | ---- | ------ | -------- | ----------- |
