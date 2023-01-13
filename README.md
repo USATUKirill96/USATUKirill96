@@ -98,6 +98,7 @@ Hi! My name is Kirill! 👋 I'm an IT enthusiast involved in different spheres o
 | Date | Course | Platform | Certificate |
 | ---- | ------ | -------- | ----------- |
 | 07.2022 | Learn How To Code: Google's Go (golang) Programming Language | Udemy | [udemy-golang.pdf](udemy-golang.pdf) | 
+| 01.2023| Design patterns in Python | Udemy | [design_patterns.pdf](design_patterns.pdf)
 <br>
 
 # Repositories: <a id="repositories"></a>
