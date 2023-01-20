@@ -100,7 +100,7 @@ Hi! My name is Kirill! 👋 I'm an IT enthusiast involved in different spheres o
 | 07.2022 | [Learn How To Code: Google's Go (golang) Programming Language](https://www.udemy.com/course/learn-how-to-code) | Udemy | [udemy-golang.pdf](udemy-golang.pdf) | 
 | 01.2023| [Design patterns in Python](https://www.udemy.com/course/design-patterns-python) | Udemy | [design_patterns.pdf](design_patterns.pdf)
 | 01.2023| [Software Architecture by University of Alberta](https://www.coursera.org/learn/software-architecture) | Coursera | [software_architecture.pdf](software_architecture.pdf)
-| 01.2023| [Service-Oriented Architecture.pdf by University of Alberta](https://www.coursera.org/learn/service-oriented-architecture) | Coursera | [Service-Oriented Architecture.pdf](Service-Oriented%20Architecture.pdf)
+| 01.2023| [Service-Oriented Architecture by University of Alberta](https://www.coursera.org/learn/service-oriented-architecture) | Coursera | [Service-Oriented Architecture.pdf](Service-Oriented%20Architecture.pdf)
 <br>
 
 # Repositories: <a id="repositories"></a>
