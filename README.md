@@ -31,9 +31,8 @@
 # About <a id="about"></a>
 
 
-Hi! My name is Kirill! 👋 I'm an IT enthusiast involved in different spheres of programming industry
-- Full-time *Software Engineer* / in [Grid Dynamics](https://www.griddynamics.com/).
-- Part-time *code reviewer* at "Python developer" course of [Yandex Practicum](https://practicum.yandex.com/).
+Hi! My name is Kirill! 👋 I'm an IT enthusiast involved in different spheres of programming industry and *Software Engineer* in [Grid Dynamics](https://www.griddynamics.com/).
+
 
 ## Technical Stack
 |Technology                  | Familiarity                 |
@@ -50,6 +49,8 @@ Hi! My name is Kirill! 👋 I'm an IT enthusiast involved in different spheres o
 | Graphql                    | Daily basis usage           | 
 | Golang web backend         | Pet projects                | 
 | MySQL/PostgreSQL (raw SQL) | Pet projects                | 
+| Google Cloud Platform      | Used to face a couple tasks | 
+
 <br>
 
 # Work experience <a id="experience"></a>
@@ -60,7 +61,7 @@ Hi! My name is Kirill! 👋 I'm an IT enthusiast involved in different spheres o
 | Job Position      | Company                                          | Field                                           | Work Period                |
 | ----------------  | ------------------------------------------------ | ----------------------------------------------- | -------------------------- |
 | Software Engineer | [Grid Dynamics](https://www.griddynamics.com/)   | Backend development                             | 05.2022 — until now        |
-| Code reviewer     | [Yandex Practicum](https://practicum.yandex.com) | Python code reviewing at educational course     | 04.2022 — until now        |
+| Code reviewer     | [Yandex Practicum](https://practicum.yandex.com) | Python code reviewing at educational course     | 04.2022 — 01.2023.         |
 | Team Lead         | [SMENA](https://github.com/smenateam)            | Development, people management, recruitment     | 09.2021 — 05.2022          |
 | Backend developmer| [SMENA](https://github.com/smenateam)            | Django backend development                      | 05.2020 — 09.2021          |
 
@@ -83,7 +84,7 @@ Hi! My name is Kirill! 👋 I'm an IT enthusiast involved in different spheres o
 - Successfully mentored a group of students from absolute zero to junior "python developer" level
 
 ### Grid Dynamics
-- Conducted technical interviews with junior and middle candidates
+- Conducted technical interviews with junior, middle and senior candidates
 - Integrated into spreaded international team
 - Took a part in transfer of a small startup to a part of FAANG company
 - Developed application environment in th Google Cloud Platform
