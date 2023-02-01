@@ -11,7 +11,7 @@
     <img src="https://raw.githubusercontent.com/USATUKirill96/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Telegram.svg" height=30>
   </a>
    |
-  <a href="https://www.instagram.com/kirkonglemonk/">
+  <a href="https://www.instagram.com/kirlakir/">
     <img src="https://raw.githubusercontent.com/USATUKirill96/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Instagram.svg" height=30>
   </a>
 </div>
