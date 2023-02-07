@@ -56,11 +56,12 @@ Hi! My name is Kirill! 👋 I'm an IT enthusiast involved in different spheres o
 # Work experience <a id="experience"></a>
 
 - 3.5 years of total programming experience
-- 2.5 years of commercial programming
+- 3 years of commercial programming
 
 | Job Position      | Company                                          | Field                                           | Work Period                |
 | ----------------  | ------------------------------------------------ | ----------------------------------------------- | -------------------------- |
-| Software Engineer | [Grid Dynamics](https://www.griddynamics.com/)   | Backend development                             | 05.2022 — until now        |
+| Senior Software Engineer | [Grid Dynamics](https://www.griddynamics.com/)   | Backend development                             | 02.2023 — until now        |
+| Software Engineer | [Grid Dynamics](https://www.griddynamics.com/)   | Backend development                             | 05.2022 — 02.2023        |
 | Code reviewer     | [Yandex Practicum](https://practicum.yandex.com) | Python code reviewing at educational course     | 04.2022 — 01.2023.         |
 | Team Lead         | [SMENA](https://github.com/smenateam)            | Development, people management, recruitment     | 09.2021 — 05.2022          |
 | Backend developmer| [SMENA](https://github.com/smenateam)            | Django backend development                      | 05.2020 — 09.2021          |
@@ -84,7 +85,7 @@ Hi! My name is Kirill! 👋 I'm an IT enthusiast involved in different spheres o
 - Successfully mentored a group of students from absolute zero to junior "python developer" level
 
 ### Grid Dynamics
-- Conducted technical interviews with junior, middle and senior candidates
+- Conducted 20+ technical interviews with junior, middle and senior candidates
 - Integrated into spreaded international team
 - Took a part in transfer of a small startup to a part of FAANG company
 - Developed application environment in th Google Cloud Platform
