@@ -55,7 +55,7 @@ Hi! My name is Kirill! 👋 I'm an IT enthusiast involved in different spheres o
 
 # Work experience <a id="experience"></a>
 
-- 3.5 years of total programming experience
+- 4 years of total programming experience
 - 3 years of commercial programming
 
 | Job Position      | Company                                          | Field                                           | Work Period                |
