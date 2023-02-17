@@ -48,7 +48,7 @@ Hi! My name is Kirill! 👋 I'm an IT enthusiast involved in different spheres o
 
 <br>
 
-You can get more details at the [Work experience](#experience), [Courses and certificates](#courses) and the [Repositories](#repositories) sections.
+You can get more details at the [Work experience](#experience), [Education](#education) and the [Repositories](#repositories) sections.
 
 <br>
 
@@ -89,8 +89,20 @@ You can get more details at the [Work experience](#experience), [Courses and cer
 - Took a part in transfer of a small startup to a part of FAANG company
 - Developed application environment in th Google Cloud Platform
      
-# Courses and certificates <a id="courses"></a>
+# Education <a id="education"></a>
 
+[Ufa State Aviation Technical University](https://ugatu.su/en/)
+
+**Bachelor's degree** *Mechatronics, Robotics, and Automation Engineering* (Sep 2016 - Jul 2020)
+
+Grade: **4,87** (Red diploma)
+ - Microprocessors, robots and CNC machines programming
+ - CAD and CAE systems
+ - Design and use of mechatronics and robotics systems in an automated manufacturing
+
+<br>
+
+## Certificates and courses
 | Date | Expiration | Certification | Credential |
 | ---- | ------ | -------- | ----------- |
 | 12.2022 | 12.2025 | Google Cloud Certified Associate Cloud Engineer |[certificate](https://www.credential.net/c482e26a-f8e6-4f7b-baf6-c500cfada059?key=fe47a5cf62ec36c5ee26996e390f0dd3d341c9c16f62e27785ffa94f3f100d86) | 
