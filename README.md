@@ -42,7 +42,7 @@ Hi! My name is Kirill! 👋 I'm an IT enthusiast involved in different spheres o
 | Programming languages and frameworks | - Python (Django, Flask, FastAPI) <br> - Golang                                                              |
 | Linux administration                 | - Debian and Arch based systems <br> - Nginx <br> - Security basics                                          |
 | Databases                            | - PostgreSQL <br> - mySQL <br> - Elasticsearch <br> - Redis                                                  |
-| DevOps                               | - Ansible playbooks <br> - Docker <br> - Google Cloud Platform                                               |
+| DevOps                               | - Ansible playbooks <br> - Docker <br> - Google Cloud Platform <br> - CircleCI, Github actions                                               |
 | Protocols                            | - REST <br> - gRPC <br> - GraphQL                                                                            |
 | Management and mentoring             | - Team lead at SMENA <br> - Grid Dynamics technical interviewer <br> - Yandex practicum code reviewer        |
 
