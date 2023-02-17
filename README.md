@@ -48,7 +48,7 @@ Hi! My name is Kirill! 👋 I'm an IT enthusiast involved in different spheres o
 
 <br>
 
-You can get more details at the [Work experience](#experience), [Courses and certificates](#courses) and the [epositories](#repositories) sections.
+You can get more details at the [Work experience](#experience), [Courses and certificates](#courses) and the [Repositories](#repositories) sections.
 
 <br>
 
