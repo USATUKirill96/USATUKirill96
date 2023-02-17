@@ -35,21 +35,20 @@ Hi! My name is Kirill! 👋 I'm an IT enthusiast involved in different spheres o
 
 
 ## Technical Stack
-|Technology                  | Familiarity                 |
-| -------------------------- | --------------------------- | 
-| Python web backend         | Daily basis usage           |
-| Linux desktop and server   | Daily basis usage           |
-| Google Cloud Platform      | Regularly deal with         |
-| Nginx                      | Regularly deal with         |
-| MySQL/PostgreSQL (ORM)     | Daily basis usage           | 
-| Redis                      | Used to face a couple tasks | 
-| Elsaticsearch              | Regularly deal with         | 
-| Docker                     | Regularly deal with         | 
-| Ansible                    | Regularly deal with         | 
-| Graphql                    | Daily basis usage           | 
-| Golang web backend         | Pet projects                | 
-| MySQL/PostgreSQL (raw SQL) | Pet projects                | 
-| Google Cloud Platform      | Used to face a couple tasks | 
+
+
+|Field                                 | Technologies                                                                                                 |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------------ | 
+| Programming languages and frameworks | - Python (Django, Flask, FastAPI) <br> - Golang                                                              |
+| Linux administration                 | - Debian and Arch based systems <br> - Nginx <br> - Security basics                                          |
+| Databases                            | - PostgreSQL <br> - mySQL <br> - Elasticsearch <br> - Redis                                                  |
+| DevOps                               | - Ansible playbooks <br> - Docker <br> - Google Cloud Platform                                               |
+| Protocols                            | - REST <br> - gRPC <br> - GraphQL                                                                            |
+| Management and mentoring             | - Team lead at SMENA <br> - Grid Dynamics technical interviewer <br> - Yandex practicum code reviewer        |
+
+<br>
+
+You can get more details at the [Work experience](#experience), [Courses and certificates](#courses) and the [epositories](#repositories) sections.
 
 <br>
 
@@ -61,10 +60,10 @@ Hi! My name is Kirill! 👋 I'm an IT enthusiast involved in different spheres o
 | Job Position      | Company                                          | Field                                           | Work Period                |
 | ----------------  | ------------------------------------------------ | ----------------------------------------------- | -------------------------- |
 | Senior Software Engineer | [Grid Dynamics](https://www.griddynamics.com/)   | Backend development                             | 02.2023 — until now        |
-| Software Engineer | [Grid Dynamics](https://www.griddynamics.com/)   | Backend development                             | 05.2022 — 02.2023        |
+| Software Engineer | [Grid Dynamics](https://www.griddynamics.com/)   | Backend development                             | 05.2022 — 02.2023          |
 | Code reviewer     | [Yandex Practicum](https://practicum.yandex.com) | Python code reviewing at educational course     | 04.2022 — 01.2023.         |
 | Team Lead         | [SMENA](https://github.com/smenateam)            | Development, people management, recruitment     | 09.2021 — 05.2022          |
-| Backend developmer| [SMENA](https://github.com/smenateam)            | Django backend development                      | 05.2020 — 09.2021          |
+| Backend developer | [SMENA](https://github.com/smenateam)            | Django backend development                      | 05.2020 — 09.2021          |
 
 
 ## Achievements at these positions:
