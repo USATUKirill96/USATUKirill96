@@ -42,7 +42,7 @@ Hi! My name is Kirill! 👋 I'm an IT enthusiast involved in different spheres o
 | Programming languages and frameworks | - Python (Django, Flask, FastAPI) <br> - Golang                                                              |
 | Linux administration                 | - Debian and Arch based systems <br> - Nginx <br> - Security basics                                          |
 | Databases                            | - PostgreSQL <br> - mySQL <br> - Elasticsearch <br> - Redis                                                  |
-| DevOps                               | - Ansible playbooks <br> - Docker <br> - Google Cloud Platform <br> - CircleCI, Github actions                                               |
+| DevOps                               | - Ansible playbooks <br> - Docker <br> - Google Cloud Platform <br> - CircleCI, Github actions               |
 | Protocols                            | - REST <br> - gRPC <br> - GraphQL                                                                            |
 | Management and mentoring             | - Team lead at SMENA <br> - Grid Dynamics technical interviewer <br> - Yandex practicum code reviewer        |
 
@@ -56,14 +56,24 @@ You can get more details at the [Work experience](#experience), [Education](#edu
 
 | Job Position      | Company                                          | Field                                           | Work Period                |
 | ----------------  | ------------------------------------------------ | ----------------------------------------------- | -------------------------- |
-| Senior Software Engineer | [Grid Dynamics](https://www.griddynamics.com/)   | Backend development                      | 02.2023 — until now        |
-| Software Engineer | [Grid Dynamics](https://www.griddynamics.com/)   | Backend development                             | 05.2022 — 02.2023          |
+| Software Engineer | [Grid Dynamics](https://www.griddynamics.com/)   | Backend development                             | 05.2022 — until now        |
 | Code reviewer     | [Yandex Practicum](https://practicum.yandex.com) | Python code reviewing at educational course     | 04.2022 — 01.2023.         |
 | Team Lead         | [SMENA](https://github.com/smenateam)            | Development, people management, recruitment     | 09.2021 — 05.2022          |
 | Backend developer | [SMENA](https://github.com/smenateam)            | Django backend development                      | 05.2020 — 09.2021          |
+| Python developer  | [SpecTrans](https://www.rusprofile.ru/id/7663230) | Automating business processes with Python      | 03.2018 — 05.2020          |
+
 
 
 ## Achievements at these positions:
+
+### Grid Dynamics
+- Conducted 20+ technical interviews with junior, middle and senior candidates
+- Integrated into spreaded international team
+- Took a part in transfer of a small startup to a part of FAANG company
+- Developed application environment in th Google Cloud Platform
+
+### Yandex Practicum
+- Successfully mentored a group of students from absolute zero to junior "python developer" level
 
 ### Smena
 
@@ -75,17 +85,15 @@ You can get more details at the [Work experience](#experience), [Education](#edu
      - Recruitment
      - Agile sprint Planning
      - Performance reviews
-<br>
-     
-### Yandex Practicum
-- Successfully mentored a group of students from absolute zero to junior "python developer" level
 
-### Grid Dynamics
-- Conducted 20+ technical interviews with junior, middle and senior candidates
-- Integrated into spreaded international team
-- Took a part in transfer of a small startup to a part of FAANG company
-- Developed application environment in th Google Cloud Platform
-     
+### SpecTrans
+- Developed an automation process for the business owner, logistician and drivers communication
+- Optimised flight plannings, driver notifications
+- Supported the system, maintained the application reliability
+<br>
+
+
+
 # Education <a id="education"></a>
 
 [Ufa State Aviation Technical University](https://ugatu.su/en/)
