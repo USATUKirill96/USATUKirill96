@@ -31,7 +31,7 @@
 # About <a id="about"></a>
 
 
-Hi! My name is Kirill! 👋 I'm an IT enthusiast involved in different spheres of programming industry and *Software Engineer* in [Grid Dynamics](https://www.griddynamics.com/).
+Hi! My name is Kirill! 👋 I'm an IT enthusiast involved in different spheres of programming industry and a *Senior Software Engineer* in [Grid Dynamics](https://www.griddynamics.com/).
 
 
 ## Technical Stack
