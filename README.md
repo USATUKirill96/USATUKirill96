@@ -88,7 +88,7 @@ You can get more details at the [Work experience](#experience), [Education](#edu
 
 ### SpecTrans
 - Developed an automation process for the business owner, logistician and drivers communication
-- Optimised flight plannings, driver notifications
+- Optimized flight plannings, driver notifications
 - Supported the system, maintained the application reliability
 <br>
 
