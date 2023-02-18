@@ -54,12 +54,9 @@ You can get more details at the [Work experience](#experience), [Education](#edu
 
 # Work experience <a id="experience"></a>
 
-- 4 years of total programming experience
-- 3 years of commercial programming
-
 | Job Position      | Company                                          | Field                                           | Work Period                |
 | ----------------  | ------------------------------------------------ | ----------------------------------------------- | -------------------------- |
-| Senior Software Engineer | [Grid Dynamics](https://www.griddynamics.com/)   | Backend development                             | 02.2023 — until now        |
+| Senior Software Engineer | [Grid Dynamics](https://www.griddynamics.com/)   | Backend development                      | 02.2023 — until now        |
 | Software Engineer | [Grid Dynamics](https://www.griddynamics.com/)   | Backend development                             | 05.2022 — 02.2023          |
 | Code reviewer     | [Yandex Practicum](https://practicum.yandex.com) | Python code reviewing at educational course     | 04.2022 — 01.2023.         |
 | Team Lead         | [SMENA](https://github.com/smenateam)            | Development, people management, recruitment     | 09.2021 — 05.2022          |
