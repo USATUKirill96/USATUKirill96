@@ -100,7 +100,7 @@ You can get more details at the [Work experience](#experience), [Education](#edu
 
 **Bachelor's degree** *Mechatronics, Robotics, and Automation Engineering* (Sep 2016 - Jul 2020)
 
-Grade: **4,87** (Red diploma)
+Grade: **4,87** (Diploma of honors)
  - Microprocessors, robots and CNC machines programming
  - CAD and CAE systems
  - Design and use of mechatronics and robotics systems in an automated manufacturing
