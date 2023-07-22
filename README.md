@@ -67,29 +67,64 @@ You can get more details at the [Work experience](#experience), [Education](#edu
 ## Achievements at these positions:
 
 ### Grid Dynamics
-- Conducted 20+ technical interviews with junior, middle and senior candidates
-- Integrated into spreaded international team
-- Took a part in transfer of a small startup to a part of FAANG company
-- Developed application environment in th Google Cloud Platform
+Company activities:
+- Conducted 20+ technical interviews with junior, middle and senior developers
+- Developed a part of "Junior to middle" educational program for internal employees growth
+
+Project: FAANG Company (Confidential)
+ - Managed the source community-developed part of the project.
+ - Effectively communicated with community members, addressing inquiries and providing support.
+ - Conducted thorough code reviews to ensure high-quality contributions from the community.
+ - Developed third-party integrations to enhance the project's functionality and user experience.
+
+R&D Project: Product Description Generation Service
+
+ - Developed a service utilizing OpenAI and Google Vertex API.
+ - Implemented the service to generate product descriptions based on clothes characteristics.
+ - Utilized OpenAI's natural language processing capabilities and Google Vertex API's machine learning features.
+ - Prepared the service for a demo, showcasing its potential to enhance the efficiency of content creation for the company's products.
 
 ### Yandex Practicum
-- Successfully mentored a group of students from absolute zero to junior "python developer" level
+- Reviewed and provided feedback on students' home assignments related to Python and Django framework.
+- Assisted students in their learning process by offering guidance and support to help them improve their coding skills.
 
 ### Smena
+**Team Lead**
+- Composed and deployed releases, ensuring smooth and efficient software updates.
+- Wrote documentation to maintain clarity and facilitate future development.
+- Conducted regular 1-1 meetings with team members to address concerns and provide guidance.
+- Resolved issues and provided architecture solutions to support the team's projects.
+- Conducted career reviews of employees, identifying areas for growth and development.
+- Participated in the hiring process to onboard talented individuals into the team.
 
-- Implemented GraphQL API using Django Graphene, which was as an MVP of this technology, bringing the best practices for future development
-- Developed the autotest MVP application using Playwright library, which was used as the base for autotest development
-- Developed automated pipeline for running autotests using Docker, CircleCi and a bit of python scripts, by which we have automatically running autotests on a remote machine
-- Managed a team of back and front-end developers: 
-     - 1-1 meetings
-     - Recruitment
-     - Agile sprint Planning
-     - Performance reviews
+**Python Developer**
+Tablet service for the kitchen:
+ - Streamlined communication between the kitchen staff and delivery team.
+ - Enabled real-time transmission of incoming orders, reducing manual errors and optimizing order processing.
+ - Technologies used: Python, Django, GraphQL, Elasticsearch.
+
+ Delivery panel for couriers and clients of the restaurant:
+ - Improved overall delivery process with route optimization, order tracking, and real-time delivery status updates.
+ - Enhanced customer satisfaction by providing clients with order tracking capabilities.
+ - Technologies used: [Please add the relevant technologies used for this service].
+
+ Autotest running infrastructure:
+ - Implemented automated testing infrastructure, significantly reducing manual testing time.
+ - Led to faster deployment cycles and improved software quality.
+ - Identified potential issues before deployment, ensuring a more reliable and stable product.
+ - Technologies used: CircleCI, GitHub Actions, Docker.
 
 ### SpecTrans
-- Developed an automation process for the business owner, logistician and drivers communication
-- Optimized flight plannings, driver notifications
-- Supported the system, maintained the application reliability
+Automation System Developer (Part-time) at Small Transport Company
+ - Developed and supported an application for logisticians and drivers, streamlining various aspects of the company's operations.
+ - Implemented features to automate flight planning, efficiently assigning available drivers for specific days.
+ - Provided functionality to retrieve information about completed and upcoming flights within the current month.
+ - Integrated notification systems to alert relevant personnel about future flights and schedule changes.
+
+Technical Contributions:
+
+ - Utilized Python scripts to automate critical business processes, optimizing workflows and reducing manual overhead.
+ - Developed a user-friendly interface to enhance usability and accessibility for logisticians and drivers.
 <br>
 
 
