@@ -7,7 +7,7 @@
     <img src="https://raw.githubusercontent.com/USATUKirill96/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" height=30>
   </a>
   |
-  <a href="https://t.me/coldsnapped">
+  <a href="https://t.me/usatukirill96">
     <img src="https://raw.githubusercontent.com/USATUKirill96/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Telegram.svg" height=30>
   </a>
    |
