@@ -10,16 +10,11 @@
   <a href="https://t.me/usatukirill96">
     <img src="https://raw.githubusercontent.com/USATUKirill96/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Telegram.svg" height=30>
   </a>
-   |
-  <a href="https://www.instagram.com/kirlakir/">
-    <img src="https://raw.githubusercontent.com/USATUKirill96/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Instagram.svg" height=30>
-  </a>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/USATUKirill96/Tech-Stack-Icons/661b1305f52d49de94f6640f8bbeec93dba9dc8a/Icons/python.svg" height=30> |
-  <img src="https://raw.githubusercontent.com/USATUKirill96/Tech-Stack-Icons/661b1305f52d49de94f6640f8bbeec93dba9dc8a/Icons/django.svg" height=30> |
   <img src="https://github.com/USATUKirill96/Tech-Stack-Icons/blob/main/Icons/go.svg" height=30> |
+  <img src="https://raw.githubusercontent.com/USATUKirill96/Tech-Stack-Icons/661b1305f52d49de94f6640f8bbeec93dba9dc8a/Icons/python.svg" height=30> |
   <img src="https://github.com/USATUKirill96/Tech-Stack-Icons/blob/main/Icons/graphql.svg" height=30> |
   <img src="https://github.com/USATUKirill96/Tech-Stack-Icons/blob/main/Icons/mysql.svg" height=30> |
   <img src="https://github.com/USATUKirill96/Tech-Stack-Icons/blob/main/Icons/redis.svg" height=30> |
@@ -39,10 +34,10 @@ Hi! My name is Kirill! 👋 I'm an IT enthusiast involved in different spheres o
 
 |Field                                 | Technologies                                                                                                 |
 | ------------------------------------ | ------------------------------------------------------------------------------------------------------------ | 
-| Programming languages and frameworks | - Python (Django, Flask, FastAPI) <br> - Golang                                                              |
+| Programming languages and frameworks | - Golang <br> - Python (Django, Flask, FastAPI)                                                              |
 | Linux administration                 | - Debian and Arch based systems <br> - Nginx <br> - Security basics                                          |
 | Databases                            | - PostgreSQL <br> - mySQL <br> - Elasticsearch <br> - Redis                                                  |
-| DevOps                               | - Ansible playbooks <br> - Docker <br> - Google Cloud Platform <br> - CircleCI, Github actions               |
+| DevOps                               | - Ansible playbooks <br> - Docker <br> - Kubernetes <br> - Google Cloud Platform <br> - CircleCI, Github actions               |
 | Protocols                            | - REST <br> - gRPC <br> - GraphQL                                                                            |
 | Management and mentoring             | - Team lead at SMENA <br> - Grid Dynamics technical interviewer <br> - Yandex practicum code reviewer        |
 
@@ -56,7 +51,7 @@ You can get more details at the [Work experience](#experience), [Education](#edu
 
 | Job Position      | Company                                          | Field                                           | Work Period                |
 | ----------------  | ------------------------------------------------ | ----------------------------------------------- | -------------------------- |
-| Software Engineer | [Holland and Barrett](https://www.hollandandbarrett.com)   | Backend development                   | 11.2023 — current time     |
+| Software Engineer | [Holland and Barrett](https://www.hollandandbarrett.com)   | Golang development                   | 11.2023 — current time     |
 | Software Engineer | [Grid Dynamics](https://www.griddynamics.com/)   | Backend development                             | 05.2022 — 11.2023          |
 | Code reviewer     | [Yandex Practicum](https://practicum.yandex.com) | Python code reviewing at educational course     | 04.2022 — 01.2023          |
 | Team Lead         | [SMENA](https://github.com/smenateam)            | Development, people management, recruitment     | 09.2021 — 05.2022          |
